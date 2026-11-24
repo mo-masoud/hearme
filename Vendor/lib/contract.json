@@ -1,0 +1,9 @@
+{
+  "version": "0.4.1",
+  "header_hash": "f99ad4169374b8f3",
+  "backends": [
+    "metal",
+    "cpu"
+  ],
+  "lane": "metal"
+}
